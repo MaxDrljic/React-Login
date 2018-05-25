@@ -1,3 +1,7 @@
+# React Login
+
+Simple React Facebook authentication button which connects to your Facebook account. For this small project, I used react-facebook-login package and Facebook For Developers app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
